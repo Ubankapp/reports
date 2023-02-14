@@ -14,5 +14,6 @@ The data structure must be the following to use this repository:
 | 1234 | 1234abc  | ... | Pago YAPE a 194****                     | Transferencias y Retiros | Transferencias y Retiros | 1          |
 | 5678 | 5678abcd | ... | VENDOMATICA            CALLAO        PE | Salud y Bienestar        | Shopping                 | 0          |
 | ...  | ...      | ... | ...                                     | ...                      | ...                      | ...        |
+Where "the_category" is the true category of the transaction and "similarity" only reflects if there is similarity between the "category_name" and "true_category".
 
 This repository is under development..., always check for updates.
